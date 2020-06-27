@@ -1,4 +1,4 @@
-# gloomy-diary
+# gloomy-diary 이은정
 우울 다이어리
 
 # Theme
@@ -30,5 +30,12 @@
 
 ### installed packages
 
-``` $ pip install pillow, 
 ```
+$ pip install pillow, 
+```
+
+
+<hr/>
+### 2020 EUNJUNG LEE, all rights reserved.
+
+<!-- <img src="static/img/README.png", width="300px", height="500px"> -->
