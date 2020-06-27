@@ -25,3 +25,10 @@
 
 
 번외: 나와 맞는 철학자 찾기: 책 너무 안읽는데 뭘 읽어야 할까? (영세한 민음사 제언 )
+
+<hr/>
+
+### installed packages
+
+``` $ pip install pillow, 
+```

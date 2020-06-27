@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ko-kr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>언택트병원</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="\static\img\favicon-16x16.png">
+    {% block head %}
+    {% endblock head %}
+
+</head>
+<body>
+
+    <header>
+    내브바
+    </header>
+
+    <main>
+
+    {% block content %}
+    {% endblock content %}
+
+    </main>
+
+
+    <footer>
+        <p>2020 EUNJUNG LEE, all rights reserved.</p>
+        <p>official@invisible.io</p>
+    </footer>
+
+    {% block script %}
+    {% endblock script %}
+
+</body>
+</html>
